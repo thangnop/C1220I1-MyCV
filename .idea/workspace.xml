@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4ca03e55-a4f3-43c1-a866-8a708c304b56" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/g.html" beforeDir="false" afterPath="$PROJECT_DIR$/g.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/g.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1loHxybSNi6hLXXsrACO7m1mJxW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,7 +62,8 @@
       <workItem from="1608257562521" duration="330000" />
       <workItem from="1608257922977" duration="577000" />
       <workItem from="1608267173051" duration="356000" />
-      <workItem from="1608274737163" duration="5756000" />
+      <workItem from="1608274737163" duration="5975000" />
+      <workItem from="1608296890112" duration="919000" />
     </task>
     <servers />
   </component>
