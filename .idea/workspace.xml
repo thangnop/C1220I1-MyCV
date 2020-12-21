@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ca03e55-a4f3-43c1-a866-8a708c304b56" name="Default Changelist" comment="bài làm">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TKB/TKB normal.html" beforeDir="false" afterPath="$PROJECT_DIR$/TKB/TKB normal.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <workItem from="1608296890112" duration="1103000" />
       <workItem from="1608467123128" duration="1343000" />
       <workItem from="1608513017462" duration="12910000" />
-      <workItem from="1608537933386" duration="2245000" />
+      <workItem from="1608537933386" duration="3389000" />
     </task>
     <task id="LOCAL-00001" summary="bài làm">
       <created>1608539757092</created>
