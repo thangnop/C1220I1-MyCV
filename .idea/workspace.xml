@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ca03e55-a4f3-43c1-a866-8a708c304b56" name="Default Changelist" comment="bài làm">
+      <change afterPath="$PROJECT_DIR$/bai 1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FORMEASY/formeasy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FORMEASY/formnormal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FormSearch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScrip/javascriphienthidaura2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScrip/javascriphienthidaura3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScrip/javascriphienthidaura4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScrip/javascripthienthidaura.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +84,8 @@
       <workItem from="1608513017462" duration="12910000" />
       <workItem from="1608537933386" duration="5330000" />
       <workItem from="1608560031948" duration="5099000" />
-      <workItem from="1608598372202" duration="11176000" />
+      <workItem from="1608598372202" duration="11948000" />
+      <workItem from="1608624846911" duration="1886000" />
     </task>
     <task id="LOCAL-00001" summary="bài làm">
       <created>1608539757092</created>
