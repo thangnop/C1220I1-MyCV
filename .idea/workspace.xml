@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ca03e55-a4f3-43c1-a866-8a708c304b56" name="Default Changelist" comment="bài làm">
-      <change afterPath="$PROJECT_DIR$/bai 1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScrip/javascriphienthidaura2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScrip/javascriphienthidaura3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScrip/javascriphienthidaura4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScrip/javascripthienthidaura.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormNguoiDung.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +81,8 @@
       <workItem from="1608537933386" duration="5330000" />
       <workItem from="1608560031948" duration="5099000" />
       <workItem from="1608598372202" duration="11948000" />
-      <workItem from="1608624846911" duration="1886000" />
+      <workItem from="1608624846911" duration="7904000" />
+      <workItem from="1608646736483" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="bài làm">
       <created>1608539757092</created>
@@ -94,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608539757092</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bài làm">
+      <created>1608626800643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608626800643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
