@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ca03e55-a4f3-43c1-a866-8a708c304b56" name="Default Changelist" comment="" />
+    <list default="true" id="4ca03e55-a4f3-43c1-a866-8a708c304b56" name="Default Changelist" comment="fixup! hot">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Khaibaobien.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Majs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prompt.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -83,7 +89,7 @@
       <workItem from="1608598372202" duration="11948000" />
       <workItem from="1608624846911" duration="7904000" />
       <workItem from="1608646736483" duration="2920000" />
-      <workItem from="1608684736836" duration="2632000" />
+      <workItem from="1608684736836" duration="3852000" />
     </task>
     <task id="LOCAL-00001" summary="bài làm">
       <created>1608539757092</created>
