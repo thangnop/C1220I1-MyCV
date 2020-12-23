@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ca03e55-a4f3-43c1-a866-8a708c304b56" name="Default Changelist" comment="fixup! hot">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Survey.html" beforeDir="false" />
-    </list>
+    <list default="true" id="4ca03e55-a4f3-43c1-a866-8a708c304b56" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +83,7 @@
       <workItem from="1608598372202" duration="11948000" />
       <workItem from="1608624846911" duration="7904000" />
       <workItem from="1608646736483" duration="2920000" />
-      <workItem from="1608684736836" duration="2281000" />
+      <workItem from="1608684736836" duration="2632000" />
     </task>
     <task id="LOCAL-00001" summary="bài làm">
       <created>1608539757092</created>
@@ -123,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608649362024</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixup! hot">
+      <created>1608689348919</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608689348919</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixup! hot">
+      <created>1608689373865</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608689373865</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +179,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bài làm" />
-    <option name="LAST_COMMIT_MESSAGE" value="bài làm" />
+    <MESSAGE value="fixup! hot" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! hot" />
   </component>
 </project>
