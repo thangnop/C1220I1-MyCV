@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca03e55-a4f3-43c1-a866-8a708c304b56" name="Default Changelist" comment="">
+    <list default="true" id="4ca03e55-a4f3-43c1-a866-8a708c304b56" name="Default Changelist" comment="hot!hot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -180,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608779665884</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="hot!hot">
+      <created>1609643868613</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609643868613</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +222,16 @@
             </State>
           </value>
         </entry>
+        <entry key="2">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
@@ -226,6 +244,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bài làm" />
     <MESSAGE value="fixup! hot" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixup! hot" />
+    <MESSAGE value="hot!hot" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot!hot" />
   </component>
 </project>
